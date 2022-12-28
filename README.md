@@ -4,3 +4,5 @@ Foundation of Data Analytics
 Excel Programming
 SQL Programmming
 Data Warehousing
+ETL Tools
+Power BI
